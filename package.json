@@ -1,0 +1,31 @@
+{
+  "name": "angular-cors",
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Fast CORs support for angular1",
+  "author": "gdi2290 <github@gdi2290.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gdi2290/angular-cors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gdi2290/angular-cors/issues"
+  },
+  "keywords": [
+    "Patrick",
+    "PatrickJS",
+    "gdi2290",
+    "angular",
+    "angularjs",
+    "angular.js",
+    "cors",
+    "angular-cors",
+    "ngCors",
+    "cross-origin"
+  ],
+  "homepage": "https://github.com/gdi2290/angular-cors"
+}
